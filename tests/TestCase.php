@@ -3,8 +3,8 @@
 namespace Lekeabiodun\SweetAlert\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Lekeabiodun\SweetAlert\SweetAlertServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {

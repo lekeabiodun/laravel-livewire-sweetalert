@@ -2,9 +2,9 @@
 
 namespace Lekeabiodun\SweetAlert;
 
+use Lekeabiodun\SweetAlert\Commands\SweetAlertCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Lekeabiodun\SweetAlert\Commands\SweetAlertCommand;
 
 class SweetAlertServiceProvider extends PackageServiceProvider
 {
